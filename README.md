@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A passionate Software Engineer from Cumbria</h3>
+<h3 align="center">A passionate Software Engineer from Cumbria, England</h3>
 
 <p align="left">
   Currently studying for a B.Sc in Computer Science, I love to code in Python and C++ especially </br></br>
