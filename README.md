@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A passionate software developer from Cumbria</h3>
+<h3 align="center">A passionate Software Engineer from Cumbria</h3>
 
-<h3 align="left">Check out some of my projects:</h3>
 <p align="left">
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
+  Currently studying for a B.Sc in Computer Science, I love to code in Python and C++ especially </br></br>
+  - 🔭 I’m currently working on more C++ projects</br>
+  - 🌱 I’m currently learning Machine learning and Artificial Intelligence</br>
+  - 📖 I'm currently studying Data structures and Algorithms
 </p>
 
 <h3 align="left">Check out some of my projects:</h3>
 <p align="left">
   
+</p>
+
+<h3 align="left">Check out some projects I've been involved in:</h3>
+<p align="left">
+  https://www.uhmb.nhs.uk/ (UHMBT - University Hospitals of Morcambe Bay NHS Foundation trust - Main Website, Allergies) - Front end development and design
 </p>
 
 <h3 align="left">Connect with me:</h3>
