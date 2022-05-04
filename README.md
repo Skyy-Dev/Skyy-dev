@@ -17,10 +17,10 @@
   
 </p>
 
-<h3 align="left">Check out some projects I've been involved in:</h3>
+<!--<h3 align="left">Check out some projects I've been involved in:</h3>
 <p align="left">
   https://www.uhmb.nhs.uk/ (UHMBT - University Hospitals of Morcambe Bay NHS Foundation trust - Main Website, Allergies) - Front end development and design
-</p>
+</p>-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
