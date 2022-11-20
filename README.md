@@ -10,7 +10,7 @@
 </p>
 <h3 align="left">Check out some of my projects:</h3>
 
-![TomBot](https://user-images.githubusercontent.com/75093597/152057023-b0d5098f-5df1-4ca1-aea7-0f5aa5af26eb.png)
+<!--![TomBot](https://user-images.githubusercontent.com/75093597/152057023-b0d5098f-5df1-4ca1-aea7-0f5aa5af26eb.png)-->
 
 
 <p align="left">
@@ -19,7 +19,7 @@
 
 <h3 align="left">Check out some projects I've been involved in:</h3>
 <p align="left">
-  https://www.uhmb.nhs.uk/ (NHS UHMBT - University Hospitals of Morcambe Bay NHS Foundation trust - Main Website, Allergies) - Front end development and design
+  https://www.uhmb.nhs.uk/ (NHS UHMBT - University Hospitals of Morcambe Bay NHS Foundation trust - Main Website, Allergies) - Front end development and design - currently awaiting site to be uploaded by NHS
 </p>
 
 <h3 align="left">Connect with me:</h3>
