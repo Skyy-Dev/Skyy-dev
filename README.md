@@ -1,3 +1,5 @@
+<!--Wow, I'm surprised you're looking through all this code, but that's cool I guess, please ignore the mess-->
+
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <!--<h3 align="center">A passionate Software Engineer from Cumbria, England</h3>-->
 <h3 align="center">A passionate individual in all things technology from Cumbria, England</h3>
