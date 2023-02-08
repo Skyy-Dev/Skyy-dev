@@ -21,7 +21,7 @@
 
 <h3 align="left">Check out some projects I've been involved in:</h3>
 <p align="left">
-  https://www.uhmb.nhs.uk/ (NHS UHMBT - University Hospitals of Morcambe Bay NHS Foundation trust - Main Website, Allergies) - Front end development and design - currently awaiting site to be uploaded by NHS
+  https://www.uhmb.nhs.uk/our-services/services/paediatric-hospital-and-community-services/childrens-allergy-service (NHS UHMBT - University Hospitals of Morcambe Bay NHS Foundation trust - Main Website, Children's Allergies) - Front end development and design
 </p>
 
 <h3 align="left">Connect with me:</h3>
