@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skyy-dev&show_icons=true&theme=dark&hide_border=true&locale=en" alt="skyrub-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyrub-dev&theme=dark" alt="skyrub-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyy-dev&theme=dark" alt="skyrub-dev" /></p>
 
 <!--
 **Skyrub-dev/Skyrub-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
