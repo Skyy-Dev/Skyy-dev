@@ -5,7 +5,7 @@
 <h3 align="center">A passionate individual in all things technology from Cumbria, England</h3>
 
 <p align="left">
-  Currently studying for a B.Sc in Computer Science, I love to code in Python and C++ especially. I build Machine Learning models too </br></br>
+  Currently studying for a B.Sc in Computer Science, I love to code in Python and C++ especially. I build Machine Learning models and work with Artificial Intelligence too </br></br>
   - 🔭 I’m currently working on more C++ projects</br>
   - 🌱 I’m currently learning Machine learning and Artificial Intelligence</br>
   - 📖 I'm currently studying Data structures and Algorithms
