@@ -1,15 +1,15 @@
 <!--Wow, I'm surprised you're looking through all this code, but that's cool I guess, please ignore the mess-->
 
-<h1 align="center">Hi 👋, I'm Tom</h1>
+<!--<h1 align="center">Hi 👋, I'm Tom</h1>-->
 <!--<h3 align="center">A passionate Software Engineer from Cumbria, England</h3>-->
-<h3 align="center">A passionate individual in all things technology from Cumbria, England</h3>
+<!--<h3 align="center">A passionate individual in all things technology from Cumbria, England</h3>
 
 <p align="left">
   Currently studying for a B.Sc in Computer Science, I love to code in Python and C++ especially. I build Machine Learning models and work with Artificial Intelligence too </br></br>
   - 🔭 I’m currently working on more C++ projects</br>
   - 🌱 I’m currently learning Machine learning and Artificial Intelligence</br>
   - 📖 I'm currently studying Data structures and Algorithms
-</p>
+</p>-->
 <!--<h3 align="left">Check out some of my projects:</h3>-->
 
 <!--![TomBot](https://user-images.githubusercontent.com/75093597/152057023-b0d5098f-5df1-4ca1-aea7-0f5aa5af26eb.png)-->
